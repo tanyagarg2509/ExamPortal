@@ -1,0 +1,9 @@
+1. Exam Screen  - Full Screen Mode, On Exit, show alert and pause test.
+2. Add excel users
+3. Send mail to users
+4. Add specific instructions while creating exams
+5. Only one question at a time and cannot be revisited again.
+6. Result Screen
+
+ 
+-> Timer based questions
